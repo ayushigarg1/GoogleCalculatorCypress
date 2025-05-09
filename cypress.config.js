@@ -6,6 +6,7 @@ module.exports = defineConfig({
     },
 
     e2e: {
+        video: true,
         testIsolation: false,
         setupNodeEvents(on, config) {
             // implement node event listeners here

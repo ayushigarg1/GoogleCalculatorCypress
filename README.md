@@ -6,53 +6,31 @@ This project uses [Cypress](https://www.cypress.io/) to automate end-to-end test
 ---
 
 ## 📦 Project Setup
-
-### 1. Initialize the Project
-Create a new folder and initialize a Node.js project:
+### 1. Clone the Repository
 
 ```bash
-mkdir my-cypress-project
-cd my-cypress-project
-npm init -y
+git clone https://github.com/ayushigarg1/GoogleCalculatorCypress.git
 ```
-
+```bash
+cd GoogleCalculatorCypress
+```
 ### 2. Install Cypress
 
 ```bash
 npm install cypress --save-dev
 ```
 
-### 3. Launch Cypress for the First Time
+### 3. Running Test
 
 ```bash
 npx cypress open
 ```
+OR 
 
-This will auto-generate the default Cypress folder structure:
-
+```bash
+npx cypress run --headed --browser chrome
 ```
-/cypress
-  /e2e
-  /fixtures
-  /support
-cypress.config.js
-```
-
 ---
-
-## 🚀 Running Tests
-
-### Run Cypress in GUI Mode
-
-```bash
-npx cypress open
-```
-
-### Run Cypress in Headless Mode
-
-```bash
-npx cypress run
-```
 
 
 

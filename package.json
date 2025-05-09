@@ -1,4 +1,7 @@
 {
+  "name": "google-calculator-cypress",
+  "version": "1.0.0",
+  "description": "A project to test Google Calculator using Cypress",
   "dependencies": {
     "cypress-xpath": "^2.0.1"
   },
