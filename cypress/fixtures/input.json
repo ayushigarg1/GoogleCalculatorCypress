@@ -1,0 +1,53 @@
+{
+  "sum": {
+    "case1": {
+      "input1": 212,
+      "input2": 39
+    },
+    "case2": {
+      "input1": 5123.44,
+      "input2": 73.3
+    },
+
+    "case3": {
+      "input1": 23,
+      "input2": 24,
+      "input3": 3,
+      "input4": 23
+    }
+  },
+  "subtract": {
+    "case1": {
+      "input1": 2172,
+      "input2": 398
+    },
+    "case2": {
+      "input1": 19123.44,
+      "input2": 713.3
+    }
+  },
+    "multiply": {
+        "case1": {
+        "input1": 981,
+        "input2": 29
+        },
+        "case2": {
+        "input1": 129023.44,
+        "input2": 13.334
+        },
+        "case3": {
+        "input1": 127,
+        "input2": 0
+        }
+    },
+    "divide": {
+        "case1": {
+        "input1": 980001,
+        "input2": 345
+        },
+        "case2": {
+        "input1": 12983.44,
+        "input2": 33.33
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+  "sum": {
+    "input1": "zb",
+    "input2": "yy"
+  },
+
+  "subtract": {
+    "input1": "&^",
+    "input2": "#)"
+  },
+
+    "multiply": {
+        "input1": "123.3.3",
+        "input2": "5.5.5"
+    },
+    "divide": {
+        "input1": "7789",
+        "input2": "0"
+    }
+}

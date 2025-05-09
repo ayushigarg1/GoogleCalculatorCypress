@@ -1,0 +1,14 @@
+{
+  "chainedInput": {
+    "case1": {
+      "input1": 345,
+      "input2": 23,
+      "input3": 12
+    },
+    "case2": {
+      "input1": 12.23,
+      "input2": 422.956,
+      "input3": 7
+    }
+  }
+  }
